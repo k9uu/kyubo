@@ -1,0 +1,13 @@
+baseURL = "k9uu.github.io"
+title = "kyubo"
+googleAnalytics = "UA-123-456-789"
+theme = "github-style"
+
+[params]
+  author = "Febrilian"
+  description = "idk im just try what i need"
+  github = "k9uu"
+  twitter = "https://twitter.com/fe_kyuu"
+  email = "felian.putra@pm.me"
+  utterances = "example/example.github.io"
+  url = "127.0.0.1"
