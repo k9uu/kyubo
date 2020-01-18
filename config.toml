@@ -1,4 +1,4 @@
-baseURL = "k9uu.github.io"
+baseURL = "/"
 title = "kyubo"
 googleAnalytics = "UA-123-456-789"
 theme = "github-style"
