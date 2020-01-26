@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/k9uu/k9uu.github.io.git
+	branch = master
