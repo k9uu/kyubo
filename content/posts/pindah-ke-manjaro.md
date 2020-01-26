@@ -14,8 +14,8 @@ Pertama mulai meninggalkan ~~jendela~~ windows saya mencoba untuk mencari berbag
 
 wkwkwk akhirnya terinstall ubuntu di laptop saya. Setelah pemakaian beberapa hari atau mungkin -+ 3 minggu saya mulai mengalami beberapa masalah dan ada keinginan untuk menggunkaan manjaro/arch. Dan pada saat itu bertepatan dengan datangnya ssd yang saya pesan membuat saya untuk segera pindah. Tentunya dengan mencari berbagai referensi untuk menginstall distro yang berkhasta tinggi ini kemudian saya menemukan blog [BanditHijo](http://k9uu.github.io/) dan ada tulisan tersendiri tentang arch linux yang membuat saya semakin penasaran dengan arch. Tetapi setelah membaca hampir seluruh turtorial untuk menginstall arch yang menurut saya memakan waktu yang cukup lama ~~saya tidak sabar untuk sesegera mungkin mencicipi arch~~, akhirnya membuat saya untuk memilih menginstall turunannya dulu yaitu Manjaro yang sudah memudahkan pengistallannya menggunakan gui.
 
-Dan WoW lebih enak di arch daripada di Distro sebelah. Walaupun belum berpengalaman menurut saya arch lebih mudah untuk memperdalam ilmu tentang linux. Terutama di package managernya yang memberikan keterangan yang lengkap dan jelas `(menurit saya)`.
+Dan WoW lebih enak di arch daripada di Distro sebelah. Walaupun belum berpengalaman menurut saya arch lebih mudah untuk memperdalam ilmu tentang linux. Terutama di package managernya yang memberikan keterangan yang lengkap dan jelas `(menurut saya)`.
 
 Mungkin cukup sekian dulu tulisan saya tentang pengalaman singkat saya.
 
-![unch unch](images/manjaro-gatari.png)
+![unch](https://i.imgur.com/aRR5EiK)
