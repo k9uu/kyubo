@@ -18,4 +18,4 @@ Dan WoW lebih enak di arch daripada di Distro sebelah. Walaupun belum berpengala
 
 Mungkin cukup sekian dulu tulisan saya tentang pengalaman singkat saya.
 
-![unch unch](static/../../../static/images/manjaro-gatari.png)
+![unch unch](images/manjaro-gatari.png)
