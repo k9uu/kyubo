@@ -1,7 +1,7 @@
 ---
 title: "Pindah Ke Manjaro"
 date: 2020-01-26T10:33:05+07:00
-draft: true
+draft: false
 tags: [random]
 description: ""
 ---
