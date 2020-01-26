@@ -18,4 +18,4 @@ Dan WoW lebih enak di arch daripada di Distro sebelah. Walaupun belum berpengala
 
 Mungkin cukup sekian dulu tulisan saya tentang pengalaman singkat saya.
 
-![unch](https://i.imgur.com/aRR5EiK)
+![Imgur](https://i.imgur.com/aRR5EiK.jpg)

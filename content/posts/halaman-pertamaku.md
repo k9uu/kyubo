@@ -4,8 +4,7 @@ date: 2020-01-18T12:40:33+07:00
 draft: false
 toc: false
 images:
-tags:
-  - untagged
+tags: [random]
 ---
 
 Post Pertama pada web ini
